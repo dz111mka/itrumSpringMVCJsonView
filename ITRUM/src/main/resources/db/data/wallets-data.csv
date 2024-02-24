@@ -1,0 +1,4 @@
+id,balance
+gen_random_uuid(),1000.0
+gen_random_uuid(),2000.0
+gen_random_uuid(),87787.0

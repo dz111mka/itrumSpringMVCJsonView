@@ -1,0 +1,17 @@
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: itrum
+      POSTGRES_PASSWORD: 321678
+      POSTGRES_USER: postgres
+    ports:
+      - 5432
+
+  application:
+    image: openjdk:8
+    volumes:
+      - ./target/itrum.jar:/app/itrum.jar
+    ports:
+      - "8080:8080"
+    command: java -jar /app/itrum.jar

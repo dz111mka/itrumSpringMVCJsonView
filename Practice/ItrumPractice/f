@@ -1,0 +1,17 @@
+[33mcommit a477d3f7f9d90580fa46f806975459317d9e083d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dmitry Chepikov <chepikov.d.u@gmail.com>
+Date:   Tue Feb 20 23:21:18 2024 +0300
+
+    add stringbuilder task
+
+[33mcommit 136cdbe88a73077fd501466a294fdb149d19d9e6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Dmitry Chepikov <chepikov.d.u@gmail.com>
+Date:   Sat Feb 17 17:26:53 2024 +0300
+
+    add last stream task
+
+[33mcommit a8feb680c4463bd5332ead7503308c74491a7e4f[m
+Author: Dmitry Chepikov <chepikov.d.u@gmail.com>
+Date:   Sat Feb 17 09:47:26 2024 +0300
+
+    add 2/2 collection tasks and 2/3 stream tasks
